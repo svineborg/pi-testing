@@ -1,4 +1,22 @@
-div{
-	margin:auto;
-	
+body {
+  background: #aabbcc;
+  margin:auto;
+  padding:auto;
+  content-align:center;
+  text-align:center;
+}
+
+.container {
+  background: #aabbcc;
+  margin: auto;
+  padding:auto;
+}
+
+.btn{
+}
+
+.added{
+  display:inline-block;
+  margin: auto;
+  padding:auto;
 }
